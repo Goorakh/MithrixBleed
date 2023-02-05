@@ -1,0 +1,12 @@
+﻿{
+	"name": "MithrixBleed",
+	"authorName": "Gorakh",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/Goorakh/MithrixBleed",
+	"description": "Mithrix said \"it's bleedin' time\", then bled all over the place",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2100",
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"RiskofThunder-R2API_Core-5.0.4"
+	]
+}
