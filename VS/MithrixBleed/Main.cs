@@ -15,7 +15,7 @@ namespace MithrixBleed
     {
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "Gorakh";
-        public const string PluginName = "MithrixBleed";
+        public const string PluginName = "MithrixSaysBleed";
         public const string PluginVersion = "1.0.0";
 
         void Awake()
